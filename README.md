@@ -8,7 +8,7 @@ Je suis Benji, passionné de développement et toujours en quête d'apprendre de
 
 ## ⏳ Temps de Codage avec Wakatime
 
-![Benji's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018e5867-7f78-4ed9-b46b-7a9350d80462)
+![Benji's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Benji28000)
 
 ## 💻 Langages les Plus Utilisés
 
